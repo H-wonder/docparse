@@ -1,0 +1,19 @@
+# Upstream model repo: pulled separately, never committed
+Xiaomi-OCR-0/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Outputs
+output/
+eval_report.json
+
+# Local
+*.log
+.DS_Store
+.idea/
+.vscode/
